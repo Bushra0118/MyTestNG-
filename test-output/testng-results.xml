@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="13" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Booking_Suite" duration-ms="92" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="92" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+      <class name="com.booking.BookHoliday1214">
+        <test-method status="PASS" signature="Flight_Cafe_dumkin_TC2()[pri:0, instance:com.booking.BookHoliday1214@731a74c]" name="Flight_Cafe_dumkin_TC2" duration-ms="1" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flight_Cafe_dumkin_TC2 -->
+        <test-method status="PASS" signature="Flight_arrivel_city_Dubai_TC4()[pri:0, instance:com.booking.BookHoliday1214@731a74c]" name="Flight_arrivel_city_Dubai_TC4" duration-ms="1" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flight_arrivel_city_Dubai_TC4 -->
+        <test-method status="PASS" signature="Flight_dep_city_TC1()[pri:0, instance:com.booking.BookHoliday1214@731a74c]" name="Flight_dep_city_TC1" duration-ms="2" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flight_dep_city_TC1 -->
+        <test-method status="PASS" signature="Flight_plane_777_TC3()[pri:0, instance:com.booking.BookHoliday1214@731a74c]" name="Flight_plane_777_TC3" duration-ms="1" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flight_plane_777_TC3 -->
+      </class> <!-- com.booking.BookHoliday1214 -->
+      <class name="com.booking.BookingFlight1214">
+        <test-method status="PASS" signature="BeforeTestCase1()[pri:0, instance:com.booking.BookingFlight1214@5a8e6209]" name="BeforeTestCase1" is-config="true" duration-ms="13" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestCase1 -->
+        <test-method status="PASS" signature="BeforeMethord()[pri:0, instance:com.booking.BookingFlight1214@5a8e6209]" name="BeforeMethord" is-config="true" duration-ms="0" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethord -->
+        <test-method status="PASS" signature="Booking_Round_Trip_TC0()[pri:0, instance:com.booking.BookingFlight1214@5a8e6209]" name="Booking_Round_Trip_TC0" duration-ms="1" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Booking_Round_Trip_TC0 -->
+        <test-method status="PASS" signature="AfterMethord()[pri:0, instance:com.booking.BookingFlight1214@5a8e6209]" name="AfterMethord" is-config="true" duration-ms="0" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethord -->
+        <test-method status="PASS" signature="BeforeMethord()[pri:0, instance:com.booking.BookingFlight1214@5a8e6209]" name="BeforeMethord" is-config="true" duration-ms="0" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethord -->
+        <test-method status="PASS" signature="Booking_Round_Trip_TC1()[pri:0, instance:com.booking.BookingFlight1214@5a8e6209]" name="Booking_Round_Trip_TC1" duration-ms="1" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Booking_Round_Trip_TC1 -->
+        <test-method status="PASS" signature="AfterMethord()[pri:0, instance:com.booking.BookingFlight1214@5a8e6209]" name="AfterMethord" is-config="true" duration-ms="1" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethord -->
+        <test-method status="PASS" signature="BeforeMethord()[pri:0, instance:com.booking.BookingFlight1214@5a8e6209]" name="BeforeMethord" is-config="true" duration-ms="1" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethord -->
+        <test-method status="PASS" signature="Booking_Round_Trip_TC2()[pri:0, instance:com.booking.BookingFlight1214@5a8e6209]" name="Booking_Round_Trip_TC2" duration-ms="2" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Booking_Round_Trip_TC2 -->
+        <test-method status="PASS" signature="AfterMethord()[pri:0, instance:com.booking.BookingFlight1214@5a8e6209]" name="AfterMethord" is-config="true" duration-ms="0" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethord -->
+        <test-method status="PASS" signature="Booking_Oneway_Trip_TC3()[pri:0, instance:com.booking.BookingFlight1214@5a8e6209]" name="Booking_Oneway_Trip_TC3" duration-ms="1" started-at="2020-12-14T20:38:32 EST" depends-on-methods="com.booking.BookingFlight1214.Booking_Round_Trip_TC1" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Booking_Oneway_Trip_TC3 -->
+        <test-method status="PASS" signature="BeforeMethord()[pri:0, instance:com.booking.BookingFlight1214@5a8e6209]" name="BeforeMethord" is-config="true" duration-ms="0" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethord -->
+        <test-method status="PASS" signature="AfterMethord()[pri:0, instance:com.booking.BookingFlight1214@5a8e6209]" name="AfterMethord" is-config="true" duration-ms="0" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethord -->
+        <test-method status="PASS" signature="AfterTestCase1()[pri:0, instance:com.booking.BookingFlight1214@5a8e6209]" name="AfterTestCase1" is-config="true" duration-ms="0" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestCase1 -->
+      </class> <!-- com.booking.BookingFlight1214 -->
+      <class name="com.booking.BookHotel1214">
+        <test-method status="PASS" signature="Booking_Hotel_2NdFL_TC4()[pri:0, instance:com.booking.BookHotel1214@4b4523f8]" name="Booking_Hotel_2NdFL_TC4" duration-ms="5" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Booking_Hotel_2NdFL_TC4 -->
+        <test-method status="PASS" signature="Booking_Hotel_Checkin_TC1()[pri:0, instance:com.booking.BookHotel1214@4b4523f8]" name="Booking_Hotel_Checkin_TC1" duration-ms="2" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Booking_Hotel_Checkin_TC1 -->
+        <test-method status="PASS" signature="Booking_Hotel_Checkout_TC2()[pri:0, instance:com.booking.BookHotel1214@4b4523f8]" name="Booking_Hotel_Checkout_TC2" duration-ms="1" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Booking_Hotel_Checkout_TC2 -->
+        <test-method status="PASS" signature="Booking_Hotel_RoomNum_TC3()[pri:0, instance:com.booking.BookHotel1214@4b4523f8]" name="Booking_Hotel_RoomNum_TC3" duration-ms="1" started-at="2020-12-14T20:38:32 EST" finished-at="2020-12-14T20:38:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Booking_Hotel_RoomNum_TC3 -->
+      </class> <!-- com.booking.BookHotel1214 -->
+    </test> <!-- Test -->
+  </suite> <!-- Booking_Suite -->
+</testng-results>

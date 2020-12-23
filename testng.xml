@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Booking_Funtional">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.booking.BookHotel1214"/>
+      <class name="com.booking.BookingFlight1214"/>
+      <class name="com.booking.BookHolidayPackage1214"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Booking_Funtional -->
