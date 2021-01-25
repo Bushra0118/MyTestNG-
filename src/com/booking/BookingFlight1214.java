@@ -26,7 +26,7 @@ public class BookingFlight1214 {
 	
    @Test
 	public void Booking_Round_Trip_TC1() {
-		System.out.println("This is my Tc2");
+		System.out.println("This is my Testcase2");
 		
 	}
 	@Test
